@@ -1,7 +1,7 @@
-# cursoframeworks
+# Curso Frameworks
 Gera Aguilar
 
-# descripcion
+# Descripción
 Este es un curso para uso de repositorios y creación de proyectos en Frameworks
 
 # Objetivo del Proyecto
